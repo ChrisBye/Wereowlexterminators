@@ -1,0 +1,9 @@
+{
+  "firebase": "crackling-torch-9493",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
